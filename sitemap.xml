@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>https://www.lanting.me/talk/example-talk/</loc>
+      <loc>https://www.lanting.me/_talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>https://www.lanting.me/publication/</loc>
+      <loc>https://www.lanting.me/_publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>https://www.lanting.me/talk/</loc>
+      <loc>https://www.lanting.me/_talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,7 +104,7 @@
     
     <url>
     
-      <loc>https://www.lanting.me/publication/person-re-identification/</loc>
+      <loc>https://www.lanting.me/_publication/_person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -122,7 +122,7 @@
     
     <url>
     
-      <loc>https://www.lanting.me/publication/clothing-search/</loc>
+      <loc>https://www.lanting.me/_publication/_clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -201,7 +201,7 @@
     <url>
     
       <loc>https://www.lanting.me/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

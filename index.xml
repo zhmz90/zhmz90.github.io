@@ -7,15 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Lanting Guo</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jun 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Example Talk</title>
-      <link>https://www.lanting.me/talk/example-talk/</link>
+      <link>https://www.lanting.me/_talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lanting.me/talk/example-talk/</guid>
+      <guid>https://www.lanting.me/_talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
@@ -804,10 +804,10 @@ Here&#39;s some important information...
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://www.lanting.me/publication/person-re-identification/</link>
+      <link>https://www.lanting.me/_publication/_person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lanting.me/publication/person-re-identification/</guid>
+      <guid>https://www.lanting.me/_publication/_person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
@@ -858,10 +858,10 @@ With Jekyll, something that looked like&lt;/p&gt;
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>https://www.lanting.me/publication/clothing-search/</link>
+      <link>https://www.lanting.me/_publication/_clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lanting.me/publication/clothing-search/</guid>
+      <guid>https://www.lanting.me/_publication/_clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
