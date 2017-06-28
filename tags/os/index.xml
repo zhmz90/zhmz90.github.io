@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Lanting Guo</title>
-    <link>https://ltguo.me/project/</link>
-    <description>Recent content in Projects on Lanting Guo</description>
+    <title>Os on Lanting Guo</title>
+    <link>https://ltguo.me/tags/os/</link>
+    <description>Recent content in Os on Lanting Guo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Lanting Guo</copyright>
     <lastBuildDate>Mon, 26 Jun 2017 19:33:18 +0800</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/os/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>LanOS</title>
@@ -42,33 +42,6 @@
 
 &lt;h3 id=&#34;lanos-vs-linux-kernel&#34;&gt;LanOS VS Linux kernel&lt;/h3&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>BHTsne.jl</title>
-      <link>https://ltguo.me/project/bhtsne.jl/</link>
-      <pubDate>Mon, 12 Jun 2017 19:01:40 +0800</pubDate>
-      
-      <guid>https://ltguo.me/project/bhtsne.jl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTSLIB.jl</title>
-      <link>https://ltguo.me/project/htslib.jl/</link>
-      <pubDate>Mon, 12 Jun 2017 19:01:29 +0800</pubDate>
-      
-      <guid>https://ltguo.me/project/htslib.jl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MINE.jl</title>
-      <link>https://ltguo.me/project/mine.jl/</link>
-      <pubDate>Mon, 12 Jun 2017 18:58:50 +0800</pubDate>
-      
-      <guid>https://ltguo.me/project/mine.jl/</guid>
-      <description></description>
     </item>
     
   </channel>

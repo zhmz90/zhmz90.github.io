@@ -11,6 +11,25 @@
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Notes about C&#43;&#43;</title>
+      <link>https://ltguo.me/post/learning-c&#43;&#43;/</link>
+      <pubDate>Wed, 28 Jun 2017 08:19:50 +0800</pubDate>
+      
+      <guid>https://ltguo.me/post/learning-c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://ltguo.me/post/test/</link>
+      <pubDate>Mon, 12 Jun 2017 18:08:21 +0800</pubDate>
+      
+      <guid>https://ltguo.me/post/test/</guid>
+      <description>&lt;p&gt;This is the first post with hugo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Getting started with the Academic framework for Hugo</title>
       <link>https://ltguo.me/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
