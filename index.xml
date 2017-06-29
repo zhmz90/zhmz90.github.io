@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lanting Guo on Lanting Guo</title>
-    <link>https://ltguo.me/</link>
+    <link>http://www.ltguo.me/</link>
     <description>Recent content in Lanting Guo on Lanting Guo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,11 +11,40 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>3 Longest Substring Without Repeating Characters</title>
+      <link>http://www.ltguo.me/post/leetcode/3-longest-substring-without-repeating-characters/</link>
+      <pubDate>Wed, 28 Jun 2017 23:41:55 +0800</pubDate>
+      
+      <guid>http://www.ltguo.me/post/leetcode/3-longest-substring-without-repeating-characters/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Description&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Given a string, find the length of the longest substring without repeating characters.&lt;/p&gt;
+
+&lt;p&gt;Examples:&lt;/p&gt;
+
+&lt;p&gt;Given &amp;ldquo;abcabcbb&amp;rdquo;, the answer is &amp;ldquo;abc&amp;rdquo;, which the length is 3.&lt;/p&gt;
+
+&lt;p&gt;Given &amp;ldquo;bbbbb&amp;rdquo;, the answer is &amp;ldquo;b&amp;rdquo;, with the length of 1.&lt;/p&gt;
+
+&lt;p&gt;Given &amp;ldquo;pwwkew&amp;rdquo;, the answer is &amp;ldquo;wke&amp;rdquo;, with the length of 3. Note that the answer must be a substring, &amp;ldquo;pwke&amp;rdquo; is a subsequence and not a substring.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Answer:&lt;/b&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-C++&#34;&gt;
+
+
+
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
       <title>add two numbers</title>
-      <link>https://ltguo.me/post/leetcode/2-add-two-numbers/</link>
+      <link>http://www.ltguo.me/post/leetcode/2-add-two-numbers/</link>
       <pubDate>Wed, 28 Jun 2017 23:13:07 +0800</pubDate>
       
-      <guid>https://ltguo.me/post/leetcode/2-add-two-numbers/</guid>
+      <guid>http://www.ltguo.me/post/leetcode/2-add-two-numbers/</guid>
       <description>
 
 &lt;h3 id=&#34;2-add-two-numbers&#34;&gt;2. Add Two Numbers&lt;/h3&gt;
@@ -131,10 +160,10 @@ public:
     
     <item>
       <title>Notes about C&#43;&#43;</title>
-      <link>https://ltguo.me/post/learning-c&#43;&#43;/</link>
+      <link>http://www.ltguo.me/post/learning-c&#43;&#43;/</link>
       <pubDate>Wed, 28 Jun 2017 08:19:50 +0800</pubDate>
       
-      <guid>https://ltguo.me/post/learning-c&#43;&#43;/</guid>
+      <guid>http://www.ltguo.me/post/learning-c&#43;&#43;/</guid>
       <description>
 
 &lt;h1 style=&#34;background-color:black; color:Blue&#34;&gt;C++ Primer&lt;/h1&gt;
@@ -321,10 +350,10 @@ public:
     
     <item>
       <title>LanOS</title>
-      <link>https://ltguo.me/project/lanos/</link>
+      <link>http://www.ltguo.me/project/lanos/</link>
       <pubDate>Mon, 26 Jun 2017 19:33:18 +0800</pubDate>
       
-      <guid>https://ltguo.me/project/lanos/</guid>
+      <guid>http://www.ltguo.me/project/lanos/</guid>
       <description>
 
 &lt;h3 id=&#34;what-is-lanos&#34;&gt;What is LanOS?&lt;/h3&gt;
@@ -355,57 +384,57 @@ public:
     
     <item>
       <title>BHTsne.jl</title>
-      <link>https://ltguo.me/project/bhtsne.jl/</link>
+      <link>http://www.ltguo.me/project/bhtsne.jl/</link>
       <pubDate>Mon, 12 Jun 2017 19:01:40 +0800</pubDate>
       
-      <guid>https://ltguo.me/project/bhtsne.jl/</guid>
+      <guid>http://www.ltguo.me/project/bhtsne.jl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTSLIB.jl</title>
-      <link>https://ltguo.me/project/htslib.jl/</link>
+      <link>http://www.ltguo.me/project/htslib.jl/</link>
       <pubDate>Mon, 12 Jun 2017 19:01:29 +0800</pubDate>
       
-      <guid>https://ltguo.me/project/htslib.jl/</guid>
+      <guid>http://www.ltguo.me/project/htslib.jl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MINE.jl</title>
-      <link>https://ltguo.me/project/mine.jl/</link>
+      <link>http://www.ltguo.me/project/mine.jl/</link>
       <pubDate>Mon, 12 Jun 2017 18:58:50 +0800</pubDate>
       
-      <guid>https://ltguo.me/project/mine.jl/</guid>
+      <guid>http://www.ltguo.me/project/mine.jl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://ltguo.me/_talk/example-talk/</link>
+      <link>http://www.ltguo.me/_talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ltguo.me/_talk/example-talk/</guid>
+      <guid>http://www.ltguo.me/_talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://ltguo.me/_publication/_person-re-identification/</link>
+      <link>http://www.ltguo.me/_publication/_person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://ltguo.me/_publication/_person-re-identification/</guid>
+      <guid>http://www.ltguo.me/_publication/_person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>https://ltguo.me/_publication/_clothing-search/</link>
+      <link>http://www.ltguo.me/_publication/_clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://ltguo.me/_publication/_clothing-search/</guid>
+      <guid>http://www.ltguo.me/_publication/_clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

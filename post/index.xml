@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lanting Guo</title>
-    <link>https://ltguo.me/post/</link>
+    <link>http://www.ltguo.me/post/</link>
     <description>Recent content in Posts on Lanting Guo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,11 +11,40 @@
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>3 Longest Substring Without Repeating Characters</title>
+      <link>http://www.ltguo.me/post/leetcode/3-longest-substring-without-repeating-characters/</link>
+      <pubDate>Wed, 28 Jun 2017 23:41:55 +0800</pubDate>
+      
+      <guid>http://www.ltguo.me/post/leetcode/3-longest-substring-without-repeating-characters/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Description&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Given a string, find the length of the longest substring without repeating characters.&lt;/p&gt;
+
+&lt;p&gt;Examples:&lt;/p&gt;
+
+&lt;p&gt;Given &amp;ldquo;abcabcbb&amp;rdquo;, the answer is &amp;ldquo;abc&amp;rdquo;, which the length is 3.&lt;/p&gt;
+
+&lt;p&gt;Given &amp;ldquo;bbbbb&amp;rdquo;, the answer is &amp;ldquo;b&amp;rdquo;, with the length of 1.&lt;/p&gt;
+
+&lt;p&gt;Given &amp;ldquo;pwwkew&amp;rdquo;, the answer is &amp;ldquo;wke&amp;rdquo;, with the length of 3. Note that the answer must be a substring, &amp;ldquo;pwke&amp;rdquo; is a subsequence and not a substring.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Answer:&lt;/b&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-C++&#34;&gt;
+
+
+
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
       <title>add two numbers</title>
-      <link>https://ltguo.me/post/leetcode/2-add-two-numbers/</link>
+      <link>http://www.ltguo.me/post/leetcode/2-add-two-numbers/</link>
       <pubDate>Wed, 28 Jun 2017 23:13:07 +0800</pubDate>
       
-      <guid>https://ltguo.me/post/leetcode/2-add-two-numbers/</guid>
+      <guid>http://www.ltguo.me/post/leetcode/2-add-two-numbers/</guid>
       <description>
 
 &lt;h3 id=&#34;2-add-two-numbers&#34;&gt;2. Add Two Numbers&lt;/h3&gt;
@@ -131,10 +160,10 @@ public:
     
     <item>
       <title>Notes about C&#43;&#43;</title>
-      <link>https://ltguo.me/post/learning-c&#43;&#43;/</link>
+      <link>http://www.ltguo.me/post/learning-c&#43;&#43;/</link>
       <pubDate>Wed, 28 Jun 2017 08:19:50 +0800</pubDate>
       
-      <guid>https://ltguo.me/post/learning-c&#43;&#43;/</guid>
+      <guid>http://www.ltguo.me/post/learning-c&#43;&#43;/</guid>
       <description>
 
 &lt;h1 style=&#34;background-color:black; color:Blue&#34;&gt;C++ Primer&lt;/h1&gt;

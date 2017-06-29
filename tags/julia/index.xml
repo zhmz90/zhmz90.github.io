@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Julia on Lanting Guo</title>
-    <link>https://ltguo.me/tags/julia/</link>
+    <link>http://www.ltguo.me/tags/julia/</link>
     <description>Recent content in Julia on Lanting Guo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>MINE.jl</title>
-      <link>https://ltguo.me/project/mine.jl/</link>
+      <link>http://www.ltguo.me/project/mine.jl/</link>
       <pubDate>Mon, 12 Jun 2017 18:58:50 +0800</pubDate>
       
-      <guid>https://ltguo.me/project/mine.jl/</guid>
+      <guid>http://www.ltguo.me/project/mine.jl/</guid>
       <description></description>
     </item>
     

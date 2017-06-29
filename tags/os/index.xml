@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Os on Lanting Guo</title>
-    <link>https://ltguo.me/tags/os/</link>
+    <link>http://www.ltguo.me/tags/os/</link>
     <description>Recent content in Os on Lanting Guo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>LanOS</title>
-      <link>https://ltguo.me/project/lanos/</link>
+      <link>http://www.ltguo.me/project/lanos/</link>
       <pubDate>Mon, 26 Jun 2017 19:33:18 +0800</pubDate>
       
-      <guid>https://ltguo.me/project/lanos/</guid>
+      <guid>http://www.ltguo.me/project/lanos/</guid>
       <description>
 
 &lt;h3 id=&#34;what-is-lanos&#34;&gt;What is LanOS?&lt;/h3&gt;
