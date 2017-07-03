@@ -345,6 +345,39 @@ public:
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&#34;第十三讲-进程编程&#34;&gt;第十三讲　进程编程&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;进程间通信
+
+&lt;ul&gt;
+&lt;li&gt;信号量&lt;/li&gt;
+&lt;li&gt;共享内存&lt;/li&gt;
+&lt;li&gt;映射内存　VS 管道&lt;/li&gt;
+&lt;li&gt;消息队列&lt;/li&gt;
+&lt;li&gt;进程池&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;第十四讲-线程编程&#34;&gt;第十四讲　线程编程&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;线程管理&lt;/li&gt;
+&lt;li&gt;线程同步&lt;/li&gt;
+&lt;li&gt;C++11线程库
+
+&lt;ul&gt;
+&lt;li&gt;赋值不能是copy赋值，只能是move赋值&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;第十五讲-网络编程&#34;&gt;第十五讲　网络编程&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;网络协议&lt;/li&gt;
+&lt;li&gt;套接字&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
