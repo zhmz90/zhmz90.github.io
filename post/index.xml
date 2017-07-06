@@ -30,7 +30,31 @@
 
 &lt;p&gt;&lt;b&gt;Answer:&lt;/b&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-C++&#34;&gt;
+&lt;pre&gt;&lt;code class=&#34;language-C++&#34;&gt;class Solution {
+ public:
+  int lengthOfLongestSubstring(string s) {
+    if (s.length() == 0) return 0;
+    vector&amp;lt;size_t&amp;gt; lens = {};
+    string substring = &amp;quot;&amp;quot;;
+    size_t ind = 0;
+    for (auto c: s){
+      ind = substring.find_last_of(c);
+      if (string::npos != ind){ // not in substr
+        lens.push_back(substring.length());
+        substring = substring.substr(ind+1);
+      }
+      substring.push_back(c);
+    }
+    lens.push_back(substring.length());
+    
+    size_t tmp = 0;
+    for (auto l: lens){
+      if (l &amp;gt; tmp) tmp = l;
+    }
+    
+    return (int)tmp;
+  }
+};
 
 
 

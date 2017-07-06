@@ -218,7 +218,31 @@
 
 <p><b>Answer:</b></p>
 
-<pre><code class="language-C++">
+<pre><code class="language-C++">class Solution {
+ public:
+  int lengthOfLongestSubstring(string s) {
+    if (s.length() == 0) return 0;
+    vector&lt;size_t&gt; lens = {};
+    string substring = &quot;&quot;;
+    size_t ind = 0;
+    for (auto c: s){
+      ind = substring.find_last_of(c);
+      if (string::npos != ind){ // not in substr
+        lens.push_back(substring.length());
+        substring = substring.substr(ind+1);
+      }
+      substring.push_back(c);
+    }
+    lens.push_back(substring.length());
+    
+    size_t tmp = 0;
+    for (auto l: lens){
+      if (l &gt; tmp) tmp = l;
+    }
+    
+    return (int)tmp;
+  }
+};
 
 
 
